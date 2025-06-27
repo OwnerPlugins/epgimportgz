@@ -65,13 +65,6 @@ epg_ripper_PLEX1.xml.gz
 epg_ripper_POWERNATION1.xml.gz
 epg_ripper_PT1.xml.gz
 epg_ripper_RAKUTEN1.xml.gz
-epg_ripper_RAKUTEN_DE1.xml.gz
-epg_ripper_RAKUTEN_EN1.xml.gz
-epg_ripper_RAKUTEN_ES1.xml.gz
-epg_ripper_RAKUTEN_FR1.xml.gz
-epg_ripper_RAKUTEN_IT1.xml.gz
-epg_ripper_RAKUTEN_NL1.xml.gz
-epg_ripper_RAKUTEN_PL1.xml.gz
 epg_ripper_RALLY_TV1.xml.gz
 epg_ripper_RO1.xml.gz
 epg_ripper_RO2.xml.gz
