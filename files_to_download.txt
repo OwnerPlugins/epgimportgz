@@ -76,6 +76,7 @@ epg_ripper_RAKUTEN_PL1.xml.gz
 epg_ripper_RALLY_TV1.xml.gz
 epg_ripper_RO1.xml.gz
 epg_ripper_RO2.xml.gz
+epg_ripper_RS1.xml.gz
 epg_ripper_SA1.xml.gz
 epg_ripper_SA2.xml.gz
 epg_ripper_SE1.xml.gz
