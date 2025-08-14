@@ -93,8 +93,8 @@ epg_ripper_US1.xml.gz
 epg_ripper_US_LOCALS2.xml.gz
 epg_ripper_US_SPORTS1.xml.gz
 epg_ripper_UY1.xml.gz
+epg_ripper_viva-russia.ru.xml.gz
 epg_ripper_VN1.xml.gz
 epg_ripper_VOA1.xml.gz
 epg_ripper_ZA1.xml.gz
-epg_ripper_viva-russia.ru.xml.gz
 locomotiontv.xml.gz
