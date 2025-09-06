@@ -39,6 +39,7 @@ epg_ripper_ID1.xml.gz
 epg_ripper_IE1.xml.gz
 epg_ripper_IL1.xml.gz
 epg_ripper_IN1.xml.gz
+epg_ripper_IN2.xml.gz
 epg_ripper_IN4.xml.gz
 epg_ripper_IT1.xml.gz
 epg_ripper_JM1.xml.gz
