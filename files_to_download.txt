@@ -11,6 +11,7 @@ epg_ripper_BG1.xml.gz
 epg_ripper_BR1.xml.gz
 epg_ripper_BR2.xml.gz
 epg_ripper_CA1.xml.gz
+epg_ripper_CA2.xml.gz
 epg_ripper_CH1.xml.gz
 epg_ripper_CL1.xml.gz
 epg_ripper_CO1.xml.gz
