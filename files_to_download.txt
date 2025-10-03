@@ -87,6 +87,7 @@ epg_ripper_TR3.xml.gz
 epg_ripper_UK1.xml.gz
 epg_ripper_US2.xml.gz
 epg_ripper_US_LOCALS1.xml.gz
+epg_ripper_US_LOCALS2.xml.gz
 epg_ripper_US_SPORTS1.xml.gz
 epg_ripper_UY1.xml.gz
 epg_ripper_VN1.xml.gz
