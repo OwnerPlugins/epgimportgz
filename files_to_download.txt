@@ -49,6 +49,7 @@ epg_ripper_KE1.xml.gz
 epg_ripper_KR1.xml.gz
 epg_ripper_LT1.xml.gz
 epg_ripper_LV1.xml.gz
+epg_ripper_MN1.xml.gz
 epg_ripper_MT1.xml.gz
 epg_ripper_MX1.xml.gz
 epg_ripper_MY1.xml.gz
