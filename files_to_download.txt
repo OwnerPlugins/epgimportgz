@@ -82,6 +82,7 @@ epg_ripper_SPORTKLUB1.xml.gz
 epg_ripper_SSPORTPLUS1.xml.gz
 epg_ripper_SV1.xml.gz
 epg_ripper_TBNPLUS1.xml.gz
+epg_ripper_TH1.xml.gz
 epg_ripper_THESPORTPLUS1.xml.gz
 epg_ripper_TR1.xml.gz
 epg_ripper_TR3.xml.gz
