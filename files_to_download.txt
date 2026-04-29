@@ -5,6 +5,7 @@ epg_ripper_AR1.xml.gz
 epg_ripper_ASIANTELEVISION1.xml.gz
 epg_ripper_AT1.xml.gz
 epg_ripper_AU1.xml.gz
+epg_ripper_AUDACY1.xml.gz
 epg_ripper_BA1.xml.gz
 epg_ripper_BB1.xml.gz
 epg_ripper_BE2.xml.gz
